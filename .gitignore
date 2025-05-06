@@ -1,0 +1,11 @@
+bin/
+obj/
+*.dll
+*.exe
+.vs/
+*.user
+*.suo
+## Ignore logs
+Logs/
+*.log
+*.db
